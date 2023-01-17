@@ -1,4 +1,4 @@
-package main
+package redis_client_library
 
 import (
 	"fmt"
