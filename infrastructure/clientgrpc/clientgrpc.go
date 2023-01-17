@@ -2,8 +2,8 @@ package clientgrpc
 
 import (
 	"context"
-	"redis-client-library/infrastructure/servicegrpc"
-	"redis-client-library/model"
+	"github.com/rhyme80/redis-client-library/infrastructure/servicegrpc"
+	"github.com/rhyme80/redis-client-library/model"
 )
 
 type ClientGrpc struct {
